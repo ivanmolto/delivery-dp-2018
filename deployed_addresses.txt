@@ -1,0 +1,6 @@
+Attrition.sol smart contract address on Rinkeby testnet:
+0x3dcd3fd85acf3c5aae82c433ad1051308860dccb
+
+More info:
+https://rinkeby.etherscan.io/address/0x3dcd3fd85acf3c5aae82c433ad1051308860dccb
+https://rinkeby.etherscan.io/tx/0xdd7df333d51fb72b67e0087eeac9b314f7f5341fae58dcd8af78fbffb5f609f0
