@@ -85,13 +85,13 @@ $ truffle test
 
 ## Need help?
 Do you need help evaluating the project?
-The following links will help you to find where are located the key files for grading:
-* design_pattern_decisions.md [here](www.)
-* avoiding_common_attacks.md [here](www.)
-* deployed_addresses.txt [here](www.)
-* Information and comments on tests.md [here](www.)
-* Information on circuit breaker on design_pattern_decisions.md [here](www.)
-* Information and comments on library.md [here](www.)
+The following links will help you to find where are located the supporting files for grading:
+* design_pattern_decisions.md [here](https://github.com/ivanmolto/delivery-dp-2018/blob/master/design_pattern_decisions.md)
+* avoiding_common_attacks.md [here](https://github.com/ivanmolto/delivery-dp-2018/blob/master/avoiding_common_attacks.md)
+* deployed_addresses.txt [here](https://github.com/ivanmolto/delivery-dp-2018/blob/master/deployed_addresses.txt)
+* Information and comments on tests.md [here](https://github.com/ivanmolto/delivery-dp-2018/blob/master/tests.md)
+* Information on circuit breaker on design_pattern_decisions.md [here](https://github.com/ivanmolto/delivery-dp-2018/blob/master/design_pattern_decisions.md)
+* Information and comments on library.md [here](https://github.com/ivanmolto/delivery-dp-2018/blob/master/library.md)
 
 
 Please feel free to reach me by email at ivanmolto@gmail.com or via the course ryver platform @ivanmolto.
